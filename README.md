@@ -1,4 +1,4 @@
-# RNA-seq Analysis of Carbohydrate Restriction in *Linepithema humile*
+# RNA-seq analysis of carbohydrate deprivation in *Linepithema humile*
 
 ## Overview
 
