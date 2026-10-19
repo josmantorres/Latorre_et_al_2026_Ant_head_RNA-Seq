@@ -95,8 +95,7 @@ The script generates exactly two output files in the `results/` directory.
 .
 ├── README.md
 ├── LICENSE
-├── scripts/
-│   └── 01_DESeq2_carbohydrate_restriction.R
+├──01_DESeq2_carbohydrate_restriction.R
 ├── input/
 │   ├── Raw_counts.txt
 │   └── experimental_design.txt
