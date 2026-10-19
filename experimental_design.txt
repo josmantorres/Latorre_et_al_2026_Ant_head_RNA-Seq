@@ -1,0 +1,11 @@
+Sample	Treatment
+C1	Control
+C2	Control
+C3	Control
+C4	Control
+C5	Control
+T1	Treated
+T2	Treated
+T3	Treated
+T4	Treated
+T5	Treated
