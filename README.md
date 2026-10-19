@@ -136,9 +136,3 @@ The raw sequencing data and associated metadata should be linked to their public
 Please cite the associated publication when using this analysis.
 
  "Jose M. Latorre-Estivalis, Daniela Gargiulo, Walter M. Farina and Roxana Josens, 2026 - Molecular responses to carbohydrate deprivation in the Argentine ant, Linepithema humile"
-
-
-
-## License
-
-Specify a repository license before distributing the scripts. Ensure that any included input data can legally be redistributed.
